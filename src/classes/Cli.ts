@@ -194,7 +194,7 @@ class Cli {
 
         this.selectedVehicleVin = truck.vin;
 
-        //this.performActions();
+        this.performActions();
 
       });
   }
@@ -274,7 +274,7 @@ class Cli {
 
       this.selectedVehicleVin = motorbike.vin;
 
-      //this.performActions();
+      this.performActions();
 
       });
   }
