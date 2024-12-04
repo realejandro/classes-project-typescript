@@ -19,7 +19,7 @@
   join to my channel to give more ideas
 
   ## Tests
-  realejandrocf@gmail.com
+  Use unit testing to test the scripts
 
   ## Github Acount
   https://wwww.github.com/realejandro
